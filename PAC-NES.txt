@@ -1,1 +1,11 @@
-
+{
+  "min_code": "100",
+  "new_code": "101",
+  "new_name": "1.0.1",
+  "dwn_url": "https://github.com/",
+  "new_logs":[
+    "[1] TestLog 01",
+    "[2] TestLog 02",
+    "[3] TestLog 03"
+  ]
+}
